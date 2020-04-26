@@ -14,7 +14,7 @@ public class EulersMethod {
         Scanner i = new Scanner(System.in);
         double x =0;
         double h =0;
-        
+        // fields for method
         System.out.println("What x value would you like to approximate");
         x = i.nextDouble();
         System.out.println("What height do you want to use for this approximaion?");
